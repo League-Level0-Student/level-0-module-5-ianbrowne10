@@ -116,7 +116,7 @@ String badSchool = JOptionPane.showInputDialog("What is the name of your school?
 
 
 // In another pop-up, tell the user, that their school is a fantastic school. // You must include the name of the school in the message. 
-JOptionPane.showMessageDialog(null,badSchool+ " sounds like a 0.2 star school! I feel bad that you go there. Just kidding. But it does sound like a 2 star school. Still pretty bad." );
+JOptionPane.showMessageDialog(null,badSchool+ " sounds poopy..." );
 
 
 }
